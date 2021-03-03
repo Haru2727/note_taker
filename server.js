@@ -16,8 +16,7 @@ app.use(express.static(__dirname));
 // saw in SlackOverflow tha this is similiar in creating a functuon to require and passing app as a param.
 require('./routes/routes')(app);
 
-
-
+// Setting up the listener to have the assinged PORT go through and give you a link.
 app.listen(PORT, () => {
     console.log(`You are listening at http://localhost:${PORT}`);
 });
