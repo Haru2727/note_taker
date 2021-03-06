@@ -25,7 +25,7 @@
 
 ## Installation
 
-    Clone the repo from githun then install express using nmp i express in the terminal.
+    Clone the repo from github then install express using nmp i express in the terminal.
 
 ## Usgae
 
@@ -41,7 +41,7 @@
 
 ## Test
 
-    Using Postman
+   Postman can run the test
 
 ## Questions
 
@@ -49,4 +49,6 @@
 
 <a href="mailto:saeediarash84@gmail.com">Email</a>
 [Github](https://github.com/Haru2727)
-    
+
+![Screenshot](./screenshots/index.png "Index.html")
+![Screenshot](./screenshots/notes.png?raw=true "Notes.html")
